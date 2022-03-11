@@ -1,6 +1,6 @@
-# Charter for the [FIXME] Organization
+# Charter for the PyWhy Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+This is the organizational charter for the PyWhy Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
 
