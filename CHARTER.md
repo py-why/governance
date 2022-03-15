@@ -1,11 +1,10 @@
-# Charter for the [FIXME] Organization
+# Charter for the PyWhy Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+This is the organizational charter for the PyWhy Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
 
-[Set out mission of the Organization].
-
+PyWhy’s mission is to build an open-source ecosystem for causal machine learning that moves forward the state-of-the-art and makes it available to practitioners and researchers.  We build and host interoperable libraries, tools, and other resources spanning a variety of causal tasks and applications, connected through a common API on foundational causal operations and a focus on the end-to-end analysis process.
 ## 2. Steering Committee
 
 **2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
