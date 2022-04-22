@@ -4,8 +4,9 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-| [Steering Committee Member] | [handle ] | [affiliation] |
-|  ... | ... | ... |
+| Emre Kıcıman | [emrekiciman](https://github.com/emrekiciman) | Microsoft |
+| Amit Sharma | [amit-sharma](https://github.com/amit-sharma) | Microsoft |
+| Peter Götz | [petergtz](https://github.com/petergtz) | Amazon |
 
 ---
 Part of MVG-0.1-beta.
