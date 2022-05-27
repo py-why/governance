@@ -6,7 +6,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | --- | --- | --- |
 | Emre Kıcıman | [emrekiciman](https://github.com/emrekiciman) | Microsoft |
 | Amit Sharma | [amit-sharma](https://github.com/amit-sharma) | Microsoft |
-| Peter Götz | [petergtz](https://github.com/petergtz) | Amazon |
+| Peter Götz | [petergtz](https://github.com/petergtz) | Amazon Web Services |
 
 ---
 Part of MVG-0.1-beta.
