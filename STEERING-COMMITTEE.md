@@ -8,6 +8,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Amit Sharma | [amit-sharma](https://github.com/amit-sharma) | Microsoft |
 | Peter Götz | [petergtz](https://github.com/petergtz) | Amazon Web Services |
 | Patrick Blöbaum | [bloebp](https://github.com/bloebp) | Amazon Web Services |
+| Eleanor Wiske Dillon | [ewdillon](https://github.com/ewdillon) | Microsoft |
 
 ---
 Part of MVG-0.1-beta.
